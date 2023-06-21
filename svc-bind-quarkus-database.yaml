@@ -2,7 +2,7 @@ apiVersion: binding.operators.coreos.com/v1alpha1
 kind: ServiceBinding
 metadata:
   name: svc-bind-quarkus-database
-  namespace: o4d-noted
+  namespace: okd4-note
 spec:
   application:
     group: apps
